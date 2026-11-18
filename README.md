@@ -2,6 +2,8 @@
 
 A free, responsive SaaS/startup landing page template built with plain HTML5, CSS3 and JavaScript — no framework required. Ready to download, customize and use for your own product.
 
+![Preview](preview.png)
+
 **[Live Demo](https://lenivalestevao.github.io/saas-startup-landing-page/)**
 
 ## Features
